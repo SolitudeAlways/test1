@@ -2,3 +2,7 @@ body {
     background-color: lavender;
     color: darkred;
 }
+.text {
+    color: brown;
+    font-style: italic;
+}
